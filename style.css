@@ -1,0 +1,22 @@
+#editor {
+  width: 400px;
+  height: 100px;
+  padding: 10px;
+  background-color: #444;
+  color: white;
+  font-size: 14px;
+  font-family: monospace;
+}
+.statement {
+    color: orange;
+}
+td{
+	width: 20%; 
+}
+button{
+	margin-right: 2%;
+	margin-top: 2%;
+}
+h4{
+	text-align: center;
+}
