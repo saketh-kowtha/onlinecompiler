@@ -1,4 +1,4 @@
-# API's#
+# API's
 **1.compile**			
 		```javascript
 		var payload  = {
@@ -117,7 +117,7 @@
 		}
 		```
 
-# Functions#
+# Functions
 **1.Compile**
 		```Javascript
 		compile_validation = (filename, content, input) =>{
